@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dimitri-coder
 - 👀 I’m interested in ... void
 - 🌱 I’m currently learning ... assembly
-- 💞️ I’m looking to collaborate on ... null
+- 💞️ I’m looking to collaborate on ... my terminal tests repo
 - 📫 How to reach me ... don't
 - 😄 Pronouns: ... nah
 - ⚡ Fun fact: ... nope
