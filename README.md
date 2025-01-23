@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dimitri-coder
+- 👋 Hi, I’m @Dimitri84-git
 - 👀 I’m interested in ... void
 - 🌱 I’m currently learning ... assembly
 - 💞️ I’m looking to collaborate on ... my terminal tests repo
